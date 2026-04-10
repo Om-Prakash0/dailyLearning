@@ -1,0 +1,34 @@
+2427. Number of Common Factors
+
+
+class Solution {
+public:
+    int commonFactors(int a, int b) {
+        vector<int>arr1;
+        vector<int>arr2;
+        for(int i=1;i<=a;i++){
+            if(a%i==0){
+                arr1.push_back(i);
+            }
+        }
+        for(int i=1;i<=b;i++){
+            if(b%i==0){
+                arr2.push_back(i);
+            }
+        }
+        unordered_map<int,int>mp;
+        for(auto a:arr1){
+            mp[a]++;
+        }
+        for(auto a:arr2){
+            mp[a]++;
+        }
+        int count=0;
+        for(auto a : mp){
+            if(a.second>=2){
+                count++;
+            }
+        }
+        return count;
+    }
+};
