@@ -1,0 +1,30 @@
+3741. Minimum Distance Between Three Equal Elements II
+
+
+class Solution {
+public:
+    int minimumDistance(vector<int>& nums) {
+        map<int,vector<int>>mp;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            mp[nums[i]].push_back(i);
+        }
+        int ans=INT_MAX;
+        for(auto a: mp){
+            int m=a.second.size();
+            if(m>=3){
+                for(int i=0;i<=m-3;i++){
+                    int k=a.second[i];
+                    int l=a.second[i+1];
+                    int m=a.second[i+2];
+                    int sum=abs(k-l)+abs(l-m)+abs(m-k);
+                    ans=min(ans,sum);
+                }
+            }
+        }
+        if(ans==INT_MAX){
+            return -1;
+        }
+        return ans;
+    }
+};
