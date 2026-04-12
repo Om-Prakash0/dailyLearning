@@ -1,0 +1,26 @@
+2248. Intersection of Multiple Arrays
+
+
+
+
+
+class Solution {
+public:
+    vector<int> intersection(vector<vector<int>>& nums) {
+        map<int,int>mp;
+        int row=nums.size();
+        for(int i=0;i<row;i++){
+            for(int j=0;j<nums[i].size();j++){
+                mp[nums[i][j]]++;
+            }
+        }
+        vector<int>arr;
+        for(auto a:mp){
+            if(a.second==row){
+                arr.push_back(a.first);
+            }
+        }
+        sort(arr.begin(),arr.end());
+        return arr;
+    }
+};
