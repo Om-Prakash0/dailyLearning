@@ -1,0 +1,22 @@
+747. Largest Number At Least Twice of Others
+
+
+
+class Solution {
+public:
+    int dominantIndex(vector<int>& nums) {
+        vector<int> ans = nums;
+        sort(ans.begin(), ans.end());
+
+        int n = ans.size();
+
+        if(ans[n-1] >= 2 * ans[n-2]) {
+            for(int i = 0; i < n; i++) {
+                if(nums[i] == ans[n-1]) {
+                    return i;
+                }
+            }
+        }
+        return -1;
+    }
+};
