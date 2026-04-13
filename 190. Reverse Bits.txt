@@ -1,0 +1,20 @@
+190. Reverse Bits
+
+
+
+class Solution {
+public:
+    int reverseBits(int n) {
+        vector<int>arr;
+       for(int i=0;i<32;i++){
+            int d=n%2;
+            arr.push_back(d);
+            n/=2;
+        }
+        int ans=0;
+        for(int i=0;i<arr.size();i++){
+            ans+=arr[i]*pow(2,arr.size()-i-1);
+        }
+        return ans;
+    }
+};
