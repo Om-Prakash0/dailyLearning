@@ -3,6 +3,7 @@ public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
         sort(target.begin(), target.end());
         sort(arr.begin(), arr.end());
+        //cheking is both vector is same 
         return target == arr;
     }
 };
