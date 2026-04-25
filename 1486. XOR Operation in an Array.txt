@@ -11,6 +11,7 @@ public:
         }
         int ans=arr[0];
         for(int i=1;i<arr.size();i++){
+            //taking x0r of one by one
             ans^=arr[i];
         }
         return ans;
