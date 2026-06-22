@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/1796-second-largest-digit-in-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/1796-second-largest-digit-in-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Array
 |  |
 | ------- |
