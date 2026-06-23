@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Om-Prakash0/dailyLearning/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Om-Prakash0/dailyLearning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Om-Prakash0/dailyLearning/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
