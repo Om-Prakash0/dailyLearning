@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Om-Prakash0/dailyLearning/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Om-Prakash0/dailyLearning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
