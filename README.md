@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0540-single-element-in-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Om-Prakash0/dailyLearning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Om-Prakash0/dailyLearning/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
