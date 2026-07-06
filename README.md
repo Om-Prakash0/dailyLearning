@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Om-Prakash0/dailyLearning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Om-Prakash0/dailyLearning/tree/master/1037-valid-boomerang) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Om-Prakash0/dailyLearning/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Om-Prakash0/dailyLearning/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
@@ -174,8 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
