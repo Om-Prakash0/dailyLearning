@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/1796-second-largest-digit-in-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Om-Prakash0/dailyLearning/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Om-Prakash0/dailyLearning/tree/master/1037-valid-boomerang) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Om-Prakash0/dailyLearning/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Om-Prakash0/dailyLearning/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
