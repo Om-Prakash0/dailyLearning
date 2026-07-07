@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Om-Prakash0/dailyLearning/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/Om-Prakash0/dailyLearning/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Om-Prakash0/dailyLearning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Om-Prakash0/dailyLearning/tree/master/0152-maximum-product-subarray) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Om-Prakash0/dailyLearning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Om-Prakash0/dailyLearning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Om-Prakash0/dailyLearning/tree/master/0225-implement-stack-using-queues) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Om-Prakash0/dailyLearning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
