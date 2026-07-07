@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0540-single-element-in-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 | [1037-valid-boomerang](https://github.com/Om-Prakash0/dailyLearning/tree/master/1037-valid-boomerang) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Om-Prakash0/dailyLearning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
