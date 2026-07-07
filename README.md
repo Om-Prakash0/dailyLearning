@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Om-Prakash0/dailyLearning/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
@@ -197,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Om-Prakash0/dailyLearning/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Om-Prakash0/dailyLearning/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
