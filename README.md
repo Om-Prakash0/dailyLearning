@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/Om-Prakash0/dailyLearning/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 | [1037-valid-boomerang](https://github.com/Om-Prakash0/dailyLearning/tree/master/1037-valid-boomerang) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Om-Prakash0/dailyLearning/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Om-Prakash0/dailyLearning/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
