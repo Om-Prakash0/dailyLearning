@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Om-Prakash0/dailyLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
+| [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/1796-second-largest-digit-in-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Om-Prakash0/dailyLearning/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
 | [1037-valid-boomerang](https://github.com/Om-Prakash0/dailyLearning/tree/master/1037-valid-boomerang) |
+| [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Om-Prakash0/dailyLearning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
+| [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
