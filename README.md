@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Om-Prakash0/dailyLearning/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
 ## Merge Sort
 |  |
 | ------- |
@@ -238,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0402-remove-k-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
