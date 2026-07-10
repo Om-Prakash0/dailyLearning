@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Om-Prakash0/dailyLearning/tree/master/1037-valid-boomerang) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Om-Prakash0/dailyLearning/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1952-three-divisors](https://github.com/Om-Prakash0/dailyLearning/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Om-Prakash0/dailyLearning/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/2769-find-the-maximum-achievable-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Om-Prakash0/dailyLearning/tree/master/1952-three-divisors) |
 | [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Om-Prakash0/dailyLearning/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Design
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Om-Prakash0/dailyLearning/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
