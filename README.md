@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Om-Prakash0/dailyLearning/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/Om-Prakash0/dailyLearning/tree/master/3866-first-unique-even-element) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Om-Prakash0/dailyLearning/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Union-Find
 |  |
 | ------- |
