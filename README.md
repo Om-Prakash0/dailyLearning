@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Om-Prakash0/dailyLearning/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Om-Prakash0/dailyLearning/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1019-next-greater-node-in-linked-list) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
+| [0506-relative-ranks](https://github.com/Om-Prakash0/dailyLearning/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 ## Merge Sort
 |  |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Om-Prakash0/dailyLearning/tree/master/0104-maximum-depth-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Om-Prakash0/dailyLearning/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
