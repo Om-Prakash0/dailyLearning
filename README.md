@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Om-Prakash0/dailyLearning/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Om-Prakash0/dailyLearning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Om-Prakash0/dailyLearning/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Om-Prakash0/dailyLearning/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Merge Sort
 |  |
 | ------- |
