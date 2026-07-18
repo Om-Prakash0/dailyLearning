@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/2299-strong-password-checker-ii) |
+| [3210-find-the-encrypted-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/3210-find-the-encrypted-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Om-Prakash0/dailyLearning/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Counting
 |  |
