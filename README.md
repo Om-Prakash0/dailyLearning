@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Om-Prakash0/dailyLearning/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Om-Prakash0/dailyLearning/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/Om-Prakash0/dailyLearning/tree/master/3866-first-unique-even-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/2299-strong-password-checker-ii) |
 | [2942-find-words-containing-character](https://github.com/Om-Prakash0/dailyLearning/tree/master/2942-find-words-containing-character) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3210-find-the-encrypted-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/3210-find-the-encrypted-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Om-Prakash0/dailyLearning/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Counting
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Om-Prakash0/dailyLearning/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Om-Prakash0/dailyLearning/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/Om-Prakash0/dailyLearning/tree/master/3866-first-unique-even-element) |
 ## Array
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Om-Prakash0/dailyLearning/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0402-remove-k-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
 |  |
 | ------- |
