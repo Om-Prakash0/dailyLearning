@@ -4,13 +4,11 @@ public:
          if(n<2){
             return n;
         }
-        else if(dp[n]!=-1){
+        if(dp[n]!=-1){
             return dp[n];
         }
-        else{
-            return dp[n]=fib(n-1)+fib(n-2);
-        }
-        return dp[n];
+        return dp[n]=solve(n-1,dp)+solve(n-2,dp);
+    
     }
     int fib(int n) {
         vector<int>dp(n+1,-1);
