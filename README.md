@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Om-Prakash0/dailyLearning/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0402-remove-k-digits) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
