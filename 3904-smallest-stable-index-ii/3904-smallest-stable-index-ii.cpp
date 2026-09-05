@@ -15,13 +15,11 @@ public:
             minEle=min(minEle,nums[i]);
             minArr[i]=minEle;
         }
-        int StableIdx=INT_MAX;
         for(int i=0;i<n;i++){
             if(maxArr[i]-minArr[i]<=k){
-                StableIdx=min(StableIdx,i);
+                return i;
             } 
         }
-        if(StableIdx==INT_MAX) return -1;
-        return StableIdx;
+        return -1;
     }
 };
