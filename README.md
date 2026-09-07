@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3904-smallest-stable-index-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4020-elevator-requests-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
