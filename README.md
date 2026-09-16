@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3904-smallest-stable-index-ii) |
+| [3912-valid-elements-in-an-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3912-valid-elements-in-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Om-Prakash0/dailyLearning/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/4020-elevator-requests-i) |
