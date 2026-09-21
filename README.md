@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/Om-Prakash0/dailyLearning/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Om-Prakash0/dailyLearning/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/Om-Prakash0/dailyLearning/tree/master/2942-find-words-containing-character) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Om-Prakash0/dailyLearning/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Om-Prakash0/dailyLearning/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3904-smallest-stable-index-ii) |
 ## Quickselect
