@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Om-Prakash0/dailyLearning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Om-Prakash0/dailyLearning/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Om-Prakash0/dailyLearning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Om-Prakash0/dailyLearning/tree/master/3866-first-unique-even-element) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/2769-find-the-maximum-achievable-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Om-Prakash0/dailyLearning/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Om-Prakash0/dailyLearning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Om-Prakash0/dailyLearning/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Om-Prakash0/dailyLearning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Om-Prakash0/dailyLearning/tree/master/3658-gcd-of-odd-and-even-sums) |
