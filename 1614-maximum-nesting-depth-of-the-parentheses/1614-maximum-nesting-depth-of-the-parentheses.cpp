@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int maxDepth(string s) {
+        int maxOpen=0;
+        int currOpen=0;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='('){
+                currOpen++;
+            }
+            else if(s[i]==')'){
+                currOpen--;
+            }
+            maxOpen=max(maxOpen,currOpen);
+        }
+        return maxOpen;
+    }
+};
