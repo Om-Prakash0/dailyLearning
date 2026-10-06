@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Om-Prakash0/dailyLearning/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0402-remove-k-digits) |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Om-Prakash0/dailyLearning/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Om-Prakash0/dailyLearning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Om-Prakash0/dailyLearning/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0143-reorder-list) |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Om-Prakash0/dailyLearning/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Om-Prakash0/dailyLearning/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
