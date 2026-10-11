@@ -4,10 +4,8 @@ public:
         int sum=0;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            int temp=0;
             if((n%(i+1))==0){
-                temp=nums[i]*nums[i];
-                sum+=temp;
+                sum+=nums[i]*nums[i];
             }
 
         }
