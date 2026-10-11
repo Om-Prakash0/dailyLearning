@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Om-Prakash0/dailyLearning/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Om-Prakash0/dailyLearning/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Om-Prakash0/dailyLearning/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Om-Prakash0/dailyLearning/tree/master/1952-three-divisors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Om-Prakash0/dailyLearning/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Om-Prakash0/dailyLearning/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Tree
 |  |
