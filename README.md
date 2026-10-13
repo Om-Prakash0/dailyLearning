@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/Om-Prakash0/dailyLearning/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Om-Prakash0/dailyLearning/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Om-Prakash0/dailyLearning/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -462,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Om-Prakash0/dailyLearning/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Om-Prakash0/dailyLearning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Om-Prakash0/dailyLearning/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
