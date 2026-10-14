@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Om-Prakash0/dailyLearning/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Om-Prakash0/dailyLearning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Om-Prakash0/dailyLearning/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Om-Prakash0/dailyLearning/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3875-construct-uniform-parity-array-i) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Om-Prakash0/dailyLearning/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bucket Sort
 |  |
