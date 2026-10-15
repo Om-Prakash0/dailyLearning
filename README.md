@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Om-Prakash0/dailyLearning/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Om-Prakash0/dailyLearning/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Om-Prakash0/dailyLearning/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Om-Prakash0/dailyLearning/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Om-Prakash0/dailyLearning/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
 ## Sliding Window
