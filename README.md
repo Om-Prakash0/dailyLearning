@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Om-Prakash0/dailyLearning/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Om-Prakash0/dailyLearning/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Om-Prakash0/dailyLearning/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Om-Prakash0/dailyLearning/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Om-Prakash0/dailyLearning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Om-Prakash0/dailyLearning/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Om-Prakash0/dailyLearning/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Om-Prakash0/dailyLearning/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Om-Prakash0/dailyLearning/tree/master/0371-sum-of-two-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Om-Prakash0/dailyLearning/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
