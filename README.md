@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Om-Prakash0/dailyLearning/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Om-Prakash0/dailyLearning/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Om-Prakash0/dailyLearning/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Om-Prakash0/dailyLearning/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/0509-fibonacci-number) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Om-Prakash0/dailyLearning/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Om-Prakash0/dailyLearning/tree/master/2614-prime-in-diagonal) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Om-Prakash0/dailyLearning/tree/master/1952-three-divisors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Om-Prakash0/dailyLearning/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -485,5 +489,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Om-Prakash0/dailyLearning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
