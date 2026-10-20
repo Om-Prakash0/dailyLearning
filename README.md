@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-find-the-encrypted-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/3210-find-the-encrypted-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Om-Prakash0/dailyLearning/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Om-Prakash0/dailyLearning/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3794-reverse-string-prefix](https://github.com/Om-Prakash0/dailyLearning/tree/master/3794-reverse-string-prefix) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Union-Find
 |  |
