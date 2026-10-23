@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Om-Prakash0/dailyLearning/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Om-Prakash0/dailyLearning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/Om-Prakash0/dailyLearning/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Om-Prakash0/dailyLearning/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Om-Prakash0/dailyLearning/tree/master/3370-smallest-number-with-all-set-bits) |
