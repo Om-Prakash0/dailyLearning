@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Om-Prakash0/dailyLearning/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1331-rank-transform-of-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Om-Prakash0/dailyLearning/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Om-Prakash0/dailyLearning/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Om-Prakash0/dailyLearning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Om-Prakash0/dailyLearning/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Om-Prakash0/dailyLearning/tree/master/0735-asteroid-collision) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Om-Prakash0/dailyLearning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Om-Prakash0/dailyLearning/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Om-Prakash0/dailyLearning/tree/master/2574-left-and-right-sum-differences) |
