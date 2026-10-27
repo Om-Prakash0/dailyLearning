@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Om-Prakash0/dailyLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Om-Prakash0/dailyLearning/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Om-Prakash0/dailyLearning/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Om-Prakash0/dailyLearning/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Om-Prakash0/dailyLearning/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Om-Prakash0/dailyLearning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Om-Prakash0/dailyLearning/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
