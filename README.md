@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Om-Prakash0/dailyLearning/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Om-Prakash0/dailyLearning/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/2299-strong-password-checker-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Om-Prakash0/dailyLearning/tree/master/0735-asteroid-collision) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Om-Prakash0/dailyLearning/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Om-Prakash0/dailyLearning/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Om-Prakash0/dailyLearning/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/3069-distribute-elements-into-two-arrays-i) |
