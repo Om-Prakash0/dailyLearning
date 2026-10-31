@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Om-Prakash0/dailyLearning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0142-linked-list-cycle-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Om-Prakash0/dailyLearning/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Om-Prakash0/dailyLearning/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0402-remove-k-digits) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Om-Prakash0/dailyLearning/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Om-Prakash0/dailyLearning/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Om-Prakash0/dailyLearning/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Om-Prakash0/dailyLearning/tree/master/0084-largest-rectangle-in-histogram) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Om-Prakash0/dailyLearning/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Om-Prakash0/dailyLearning/tree/master/0164-maximum-gap) |
