@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Om-Prakash0/dailyLearning/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Om-Prakash0/dailyLearning/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Om-Prakash0/dailyLearning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Om-Prakash0/dailyLearning/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -542,12 +543,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Om-Prakash0/dailyLearning/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Om-Prakash0/dailyLearning/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Om-Prakash0/dailyLearning/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Om-Prakash0/dailyLearning/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
