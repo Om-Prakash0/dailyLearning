@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Om-Prakash0/dailyLearning/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Om-Prakash0/dailyLearning/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Om-Prakash0/dailyLearning/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Om-Prakash0/dailyLearning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Om-Prakash0/dailyLearning/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Om-Prakash0/dailyLearning/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -537,4 +538,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Om-Prakash0/dailyLearning/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
