@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Om-Prakash0/dailyLearning/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Om-Prakash0/dailyLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0503-next-greater-element-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Om-Prakash0/dailyLearning/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Om-Prakash0/dailyLearning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Om-Prakash0/dailyLearning/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Om-Prakash0/dailyLearning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1037-valid-boomerang](https://github.com/Om-Prakash0/dailyLearning/tree/master/1037-valid-boomerang) |
