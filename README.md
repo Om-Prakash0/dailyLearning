@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Om-Prakash0/dailyLearning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Om-Prakash0/dailyLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Om-Prakash0/dailyLearning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Om-Prakash0/dailyLearning/tree/master/0142-linked-list-cycle-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Om-Prakash0/dailyLearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Om-Prakash0/dailyLearning/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Om-Prakash0/dailyLearning/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Om-Prakash0/dailyLearning/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Om-Prakash0/dailyLearning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Om-Prakash0/dailyLearning/tree/master/0128-longest-consecutive-sequence) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Om-Prakash0/dailyLearning/tree/master/0073-set-matrix-zeroes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Om-Prakash0/dailyLearning/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Om-Prakash0/dailyLearning/tree/master/2319-check-if-matrix-is-x-matrix) |
